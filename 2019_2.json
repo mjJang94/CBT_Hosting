@@ -1,0 +1,1004 @@
+{
+	"DataList": [{
+
+		"QuestNO": "1",
+		"Quest": "릴레이션에서 튜플의 수를 의미하는 것은?",
+		"Choice1": "① DEGREE",
+		"Choice2": "② SYNONYM",
+		"Choice3": "③ COLLISION",
+		"Choice4": "④ CARDINALITY",
+		"Answer": "4",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "2",
+		"Quest": "다음 트리를 Post-order로 운행할 때 노드 C는 몇 번째로 검사되는가?",
+		"Choice1": "① 2번째",
+		"Choice2": "② 3번째",
+		"Choice3": "③ 4번째",
+		"Choice4": "④ 5번째",
+		"Answer": "2",
+		"Subject": "first",
+		"ImageURL": "https://mjjang94.github.io/CBT_Hosting/2019_2_images/2019_2_2.png"
+	}, {
+		"QuestNO": "3",
+		"Quest": "중위 표기(Infix)로 표현된 다음 산술문을 후위표기(Postfix)로 옳게 변환한 것은?",
+		"Choice1": "① ABC**/DE+*AC-*",
+		"Choice2": "② ABC**/DE*+AC*-",
+		"Choice3": "③ **/ABC*-DE*-AC",
+		"Choice4": "④ **/ABC+*DE-*AC",
+		"Answer": "2",
+		"Subject": "first",
+		"ImageURL": "https://mjjang94.github.io/CBT_Hosting/2019_2_images/2019_2_3.png"
+	}, {
+		"QuestNO": "4",
+		"Quest": "색인 순차 파일(Indexed Sequential Access Method file)의 인덱스 구역에 해당하지 않는 것은?",
+		"Choice1": "① master 인덱스",
+		"Choice2": "② prime 인덱스",
+		"Choice3": "③ cylinder 인덱스",
+		"Choice4": "④ track 인덱스",
+		"Answer": "2",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "5",
+		"Quest": "시스템 카탈로그에 대한 설명으로 옳지 않은 것은?",
+		"Choice1": "① 기본 테이블, 뷰, 인덱스, 데이터베이스, 접근권한 등의 정보를 저장한다.",
+		"Choice2": "② 시스템 카탈로그에 저장되는 내용을 메타데이터라고도 한다.",
+		"Choice3": "③ 시스템 자신이 필요로 하는 스키마 및 여러 가지 객체에 관한 정보를 포함하고 있다.",
+		"Choice4": "④ 시스템 테이블이므로 일반 사용자는 내용을 검색할 수 없다.",
+		"Answer": "4",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "6",
+		"Quest": "인사 테이블의 주소 필드에 대한 데이터 타입을 VARCHAR(10)으로 정의하였으나, 필드 길이가 부족하여 20바이트로 확장하고자 한다. 이에 적합한 SQL 명령은?",
+		"Choice1": "① MODIFY FIELD",
+		"Choice2": "② MODIFY TABLE",
+		"Choice3": "③ ALTER TABLE",
+		"Choice4": "④ ADD TABLE",
+		"Answer": "3",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "7",
+		"Quest": "뷰(view)에 대한 설명으로 옳은 것은?",
+		"Choice1": "① 셋 이상의 기본 테이블에서 유도된 실제 테이블이다.",
+		"Choice2": "② 시스템 내부의 물리적 표현으로 구현된다.",
+		"Choice3": "③ 뷰 위에 또 다른 뷰를 정의할 수 없다.",
+		"Choice4": "④ 데이터의 논리적 독립성을 제공한다.",
+		"Answer": "4",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "8",
+		"Quest": "선형 자료구조에 해당하지 않는 것은?",
+		"Choice1": "① 리스트(list)",
+		"Choice2": "② 큐(queue)",
+		"Choice3": "③ 데큐(deque)",
+		"Choice4": "④ 그래프(graph)",
+		"Answer": "4",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "9",
+		"Quest": "널(NULL) 값에 대한 설명으로 부적합한 것은?",
+		"Choice1": "① 부재(missing) 정보를 의미한다.",
+		"Choice2": "② 알려지지 않은 값을 의미한다.",
+		"Choice3": "③ 영(zero)의 값을 의미한다.",
+		"Choice4": "④ 널(NULL) 값은 혼란을 야기할 수 있다.",
+		"Answer": "3",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "10",
+		"Quest": "논리적 설계 단계에 해당하지 않는 것은?",
+		"Choice1": "① 논리적 데이터 모델로 변환 ",
+		"Choice2": "② 트랜잭션 인터페이스 설계 ",
+		"Choice3": "③ 개념 스키마의 평가 및 정재 ",
+		"Choice4": "④ 접근 경로 설계",
+		"Answer": "4",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "11",
+		"Quest": "이진탐색(Binary Search)을 하고자 할 때 구비조건으로 가장 중요한 것은?",
+		"Choice1": "① 자료가 순차적으로 정렬되어 있어야 한다. ",
+		"Choice2": "② 자료의 개수가 항상 짝수이어야 한다. ",
+		"Choice3": "③ 자료의 개수가 항상 홀수이어야 한다. ",
+		"Choice4": "④ 자료가 모두 정수로만 구성되어야 한다.",
+		"Answer": "1",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "12",
+		"Quest": "데이터베이스 설계 단계 중 개념 스키마 모델링 및 트랜잭션 모델링과 관계되는 것은?",
+		"Choice1": "① 개념적 설계",
+		"Choice2": "② 논리적 설계 ",
+		"Choice3": "③ 물리적 설계",
+		"Choice4": "④ 요구조건 분석",
+		"Answer": "1",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "13",
+		"Quest": "다음 영문의 ( ) 안에 적합한 단어는?",
+		"Choice1": "① stack",
+		"Choice2": "② queue ",
+		"Choice3": "③ graph",
+		"Choice4": "④ tree",
+		"Answer": "2",
+		"Subject": "first",
+		"ImageURL": "https://mjjang94.github.io/CBT_Hosting/2019_2_images/2019_2_13.png"
+	}, {
+		"QuestNO": "14",
+		"Quest": "A, B, C, D의 순서로 정해진 입력 자료를 스택에 입력하였다가 출력한 결과가 될 수 없는 것은?",
+		"Choice1": "① A, D, C, B",
+		"Choice2": "② A, B, C , D ",
+		"Choice3": "③ D, C, B, A",
+		"Choice4": "④ B, D, A, C",
+		"Answer": "4",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "15",
+		"Quest": "학생 테이블에서 학번에 300인 학생의 학년을 3으로 수정하기 위한 SQL 질의어는?",
+		"Choice1": "① UPDATE 학년=3 FROM 학생 WHERE 학번=300; ",
+		"Choice2": "② UPDATE 학생 SET 학년=3 WHERE 학번=300; ",
+		"Choice3": "③ UPDATE FROM 학생 SET 학년=3 WHERE 학번=300; ",
+		"Choice4": "④ UPDATE 학년=3 SET 학생 WHEN 학번=300;",
+		"Answer": "2",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "16",
+		"Quest": "다음과 같은 그래프에서 간선의 개수는?",
+		"Choice1": "① 2개",
+		"Choice2": "② 4개 ",
+		"Choice3": "③ 6개",
+		"Choice4": "④ 8개",
+		"Answer": "3",
+		"Subject": "first",
+		"ImageURL": "https://mjjang94.github.io/CBT_Hosting/2019_2_images/2019_2_16.png"
+	}, {
+		"QuestNO": "17",
+		"Quest": "버블 정렬을 이용한 오름차순 정렬시 다음 자료에 대한 1회전 수행 결과는?",
+		"Choice1": "① 6, 3, 5, 7, 9",
+		"Choice2": "② 6, 7, 3, 5, 9 ",
+		"Choice3": "③ 3, 5, 6, 7, 9",
+		"Choice4": "④ 6, 9, 7, 3, 5",
+		"Answer": "2",
+		"Subject": "first",
+		"ImageURL": "https://mjjang94.github.io/CBT_Hosting/2019_2_images/2019_2_17.png"
+	}, {
+		"QuestNO": "18",
+		"Quest": "SQL의 데이터 조작문(DML)에 해당하는 것은?",
+		"Choice1": "① CREATE",
+		"Choice2": "② INSERT ",
+		"Choice3": "③ ALTER",
+		"Choice4": "④ DROP",
+		"Answer": "2",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "19",
+		"Quest": "확장 ER모델에서 요소 객체들을 가지고 상위 레벨의 복합 개체를 구축하는 추상화 개념은?",
+		"Choice1": "① 개념화",
+		"Choice2": "② 집단화 ",
+		"Choice3": "③ 영역화",
+		"Choice4": "④ 캡슐화",
+		"Answer": "2",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "20",
+		"Quest": "정렬에서 최악의 상황인 경우에 수행 속도가 가장 빠른 것은?",
+		"Choice1": "① 퀵 정렬",
+		"Choice2": "② 버블 정렬 ",
+		"Choice3": "③ 선택 정렬",
+		"Choice4": "④ 힙 정렬",
+		"Answer": "4",
+		"Subject": "first",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "21",
+		"Quest": "어떤 컴퓨터의 메모리 용량이 4K 워드이고, 워드 길이가 16비트일 때 AR(주소 레지스터)와 DR(데이터 레지스터)는 몇 비트로 구성하여야 하는가?",
+		"Choice1": "① AR: 4, DR: 16",
+		"Choice2": "② AR: 12, DR: 32 ",
+		"Choice3": "③ AR: 16, DR: 65536",
+		"Choice4": "④ AR: 12, DR: 16",
+		"Answer": "4",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "22",
+		"Quest": "비수치 데이터에서 마스크를 이용하여 불필요한 부분을 제거하는데 사용되는 연산은?",
+		"Choice1": "① OR",
+		"Choice2": "② AND ",
+		"Choice3": "③ NOR",
+		"Choice4": "④ EX OR",
+		"Answer": "2",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "23",
+		"Quest": "다음 중 I/O채널(channel)에 대한 설명으로 틀린 것은?",
+		"Choice1": "① DMA의 확장된 개념으로 볼 수 있다. ",
+		"Choice2": "② multiplexer 채널은 고속 입출력 장치용이고, selector 채널은 저속 입출력 장치용이다. ",
+		"Choice3": "③ I/O 장치는 제어장치를 통해 채널과 연결된다. ",
+		"Choice4": "④ I/O 채널은 CPU의 I/O 명령을 수행하지 않고 I/O 채널 내의 특수목적 처리명령을 수행한다.",
+		"Answer": "2",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "24",
+		"Quest": "캐시 메모리에서 사용되지 않는 매핑 방법은?",
+		"Choice1": "① direct mapping",
+		"Choice2": "② database mapping ",
+		"Choice3": "③ associative mapping",
+		"Choice4": "④ set associative mapping",
+		"Answer": "2",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "25",
+		"Quest": "전가산기(full adder)의 합(sum)의 출력을 얻는 논리회로는?",
+		"Choice1": "① AND",
+		"Choice2": "② OR ",
+		"Choice3": "③ XOR",
+		"Choice4": "④ NOR",
+		"Answer": "3",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "26",
+		"Quest": "입∙출력 장치와 CPU 사이에 존재하는 속도의 차이로 발생하는 단점을 해결하기 위한 장치는?",
+		"Choice1": "① Console",
+		"Choice2": "② Channel ",
+		"Choice3": "③ Terminal",
+		"Choice4": "④ Register",
+		"Answer": "2",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "27",
+		"Quest": "프로그램의 진행에 대한 제어 명령에 속하지 않는 것은?",
+		"Choice1": "① Jump",
+		"Choice2": "② Load ",
+		"Choice3": "③ Branch",
+		"Choice4": "④ Interrupt",
+		"Answer": "2",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "28",
+		"Quest": "RISC(Reduced Instruction Set Computer)형 프로세서의 특징으로 가장 옳은 것은?",
+		"Choice1": "① 다양한 Addressing Model를 지원한다. ",
+		"Choice2": "② 많은 수의 명령어를 갖는다. ",
+		"Choice3": "③ 명령어의 길이가 일정하다. ",
+		"Choice4": "④ 자주 사용되지 않는 특별한 동작을 수행하는 명령어가 존재한다.",
+		"Answer": "3",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "29",
+		"Quest": "입∙출력 인터페이스에 대한 설명으로 가장 옳은 것은?",
+		"Choice1": "① CPU와 입출력 장치를 기계적으로 연결한다. ",
+		"Choice2": "② 컴퓨터에는 1개의 인터페이스가 있다. ",
+		"Choice3": "③ 주기억 장치 내에 포함된다. ",
+		"Choice4": "④ 입출력 조작 효율을 증대시키기 위한 서브시스템이다.",
+		"Answer": "4",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "30",
+		"Quest": "인터럽트(interrupt)의 발생 원인에 해당되지 않는 것은?",
+		"Choice1": "① 입출력 장치의 데이터 전송 요구 ",
+		"Choice2": "② 오버플로우(overflow)의 발생 ",
+		"Choice3": "③ 분기명령의 실행 ",
+		"Choice4": "④ supervisor call 명령의 실행",
+		"Answer": "3",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "31",
+		"Quest": "전자계산기의 연산장치 부호와 크기의 가산 과정에서 초과상태(overflow)가 발생할 조건으로 알맞은 것은?",
+		"Choice1": "① 음수에 비하여 양수가 큰 경우 ",
+		"Choice2": "② 양수에 비하여 음수가 큰 경우 ",
+		"Choice3": "③ 두 수가 모두 음수이거나 양수인 경우 ",
+		"Choice4": "④ 가산에서는 모든 경우에 초과상태가 발생하지 않는다.",
+		"Answer": "3",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "32",
+		"Quest": "다음 중 가장 큰 수는?",
+		"Choice1": "① 2진수 1011101",
+		"Choice2": "② 8진수 157 ",
+		"Choice3": "③ 10진수 165",
+		"Choice4": "④ 16진수 B7",
+		"Answer": "4",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "33",
+		"Quest": "RAM(Random Access Memory)의 특징으로 가장 옳은 것은?",
+		"Choice1": "① 데이터 입∙출력의 고속 처리 ",
+		"Choice2": "② 데이터 입∙출력의 순서적 처리 ",
+		"Choice3": "③ 데이터 입∙출력의 내용 기반 처리 ",
+		"Choice4": "④ 데이터 기억공간의 확장 처리",
+		"Answer": "1",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "34",
+		"Quest": "주소 선의 수가 11개이고 데이터 선의 수가 8개인 ROM의 내부조직을 나타내는 것은?",
+		"Choice1": "① 2K × 8",
+		"Choice2": "② 3K × 8 ",
+		"Choice3": "③ 4K × 8",
+		"Choice4": "④ 12K × 8",
+		"Answer": "1",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "35",
+		"Quest": "10진수 –6의 2의 보수 표현으로 옳은 것은?",
+		"Choice1": "① 11111110",
+		"Choice2": "② 11111010 ",
+		"Choice3": "③ 11111011",
+		"Choice4": "④ 11111100",
+		"Answer": "2",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "36",
+		"Quest": "한 명령의 실행 사이클 중에 인터럽트 요청에 의해 인터럽트를 처리한 후 CPU가 다음에 수행하는 사이클은?",
+		"Choice1": "① fetch cycle",
+		"Choice2": "② indirect cycle ",
+		"Choice3": "③ execute cycle",
+		"Choice4": "④ direct cycle",
+		"Answer": "1",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "37",
+		"Quest": "다음 중 접근 속도가 가장 빠른 것은?",
+		"Choice1": "① Floppy disk",
+		"Choice2": "② Harddisk ",
+		"Choice3": "③ Register",
+		"Choice4": "④ Magnetic Tape",
+		"Answer": "3",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "38",
+		"Quest": "1-주소 형식 인스트럭션에서 반드시 필요한 것은?",
+		"Choice1": "① 누산기",
+		"Choice2": "② 스택 ",
+		"Choice3": "③ 승산기",
+		"Choice4": "④ 인덱스 레지스터",
+		"Answer": "1",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "39",
+		"Quest": "주기억장치에서 정보를 읽을 때, 읽은 정보를 기억시켜 놓는 레지스터는?",
+		"Choice1": "① 메모리 어드레스 레지스터 ",
+		"Choice2": "② 메모리 버퍼 레지스터 ",
+		"Choice3": "③ 인덱스 레지스터 ",
+		"Choice4": "④ 누산기",
+		"Answer": "2",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "40",
+		"Quest": "MOD-5 카운터를 설계하려고 할 때 필요한 최소의 플립플롭의 개수는?",
+		"Choice1": "① 1",
+		"Choice2": "② 2",
+		"Choice3": "③ 3",
+		"Choice4": "④ 4",
+		"Answer": "3",
+		"Subject": "second",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "41",
+		"Quest": "파일 설계 단계 중 항목의 이름, 항목의 배열 순서, 항목의 자릿수, 문자의 구분, 레코드 길이의 가변성 여부, 전송 블록 길이 등을 검토하는 단계는?",
+		"Choice1": "① 파일 매체의 검토",
+		"Choice2": "② 파일 편성범위 검토 ",
+		"Choice3": "③ 파일 특성 조사",
+		"Choice4": "④ 파일 항목의 검토",
+		"Answer": "4",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "42",
+		"Quest": "객체 지향 방법론 중에서 Rumbaugh의 OMT 방법론과 Booch의 Booch 방법론, Jacobson의 OOSE 방법론을 통합하여 만든 모델링 개념의 공통 집합으로 객체지향 분석 및 설계 방법론의 표준 지정을 목표로 제안된 모델링 언어는?",
+		"Choice1": "① OOD(Object Oriented Design)",
+		"Choice2": "② OMG(Object Management Group) ",
+		"Choice3": "③ OMT(Object Modeling Technique)",
+		"Choice4": "④ UML(Unified Modeling Language)",
+		"Answer": "4",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "43",
+		"Quest": "체크 시스템의 컴퓨터 처리 단계에서 데이터를 처리할 때 발생하는 에러를 체크하는 항목이 아닌 것은?",
+		"Choice1": "① Check Digit Check",
+		"Choice2": "② Double Record Check ",
+		"Choice3": "③ Sign Check",
+		"Choice4": "④ Impossible Check",
+		"Answer": "1",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "44",
+		"Quest": "표준 처리 패턴 중 특정 조건이 주어진 파일 중에서 그 조건에 만족되는 것과 그렇지 않은 것으로 분리 처리하는 것은?",
+		"Choice1": "① 갱신",
+		"Choice2": "② 정렬 ",
+		"Choice3": "③ 대조",
+		"Choice4": "④ 분배",
+		"Answer": "4",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "45",
+		"Quest": "HIPO 다이어그램을 구성하는 요소가 아닌 것은?",
+		"Choice1": "① 도형 목차",
+		"Choice2": "② 총괄 도표 ",
+		"Choice3": "③ 자료 사진",
+		"Choice4": "④ 상세 도표",
+		"Answer": "3",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "46",
+		"Quest": "시스템 개발에서 가장 먼저 작업이 이루어지는 단계는?",
+		"Choice1": "① 조사분석",
+		"Choice2": "② 시스템 제작 ",
+		"Choice3": "③ 시스템 운영",
+		"Choice4": "④ 문제의 제기",
+		"Answer": "4",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "47",
+		"Quest": "체크 시스템의 종류 중 입력된 수치가 미리 정해진 범위 내의 수치인지를 검사하는 방법은?",
+		"Choice1": "① format check",
+		"Choice2": "② numeric check ",
+		"Choice3": "③ logical check",
+		"Choice4": "④ limit check",
+		"Answer": "4",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "48",
+		"Quest": "출력정보의 설계 순서가 올바른 것은?",
+		"Choice1": "① ㉠ → ㉡ → ㉢ → ㉣",
+		"Choice2": "② ㉠ → ㉢ → ㉡ → ㉣ ",
+		"Choice3": "③ ㉢ → ㉡ → ㉣ → ㉠",
+		"Choice4": "④ ㉡ → ㉣ → ㉠ → ㉢",
+		"Answer": "3",
+		"Subject": "third",
+		"ImageURL": "https://mjjang94.github.io/CBT_Hosting/2019_2_images/2019_2_48.png"
+	}, {
+		"QuestNO": "49",
+		"Quest": "구조적 프로그램의 기본 구조에 해당하지 않는 것은?",
+		"Choice1": "① 반복(repetition)구조",
+		"Choice2": "② 순차(sequence)구조 ",
+		"Choice3": "③ 일괄(batch)구조",
+		"Choice4": "④ 조건(condition)구조",
+		"Answer": "3",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "50",
+		"Quest": "입력 설계 단계 중 입력 항목의 명칭, 배열, 자릿수, 자료 유형, 오류체크 방법 등을 결정하는 단계는?",
+		"Choice1": "① 입력 정보 내용 설계",
+		"Choice2": "② 입력 정보 투입 설계 ",
+		"Choice3": "③ 입력 정보 매체화 설계",
+		"Choice4": "④ 입력 정보 수집 설계",
+		"Answer": "1",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "51",
+		"Quest": "출력장치나 특수작업으로 만들어진 매체가 이용자의 손을 경유하여 재입력되는 시스템은?",
+		"Choice1": "① Display Output System ",
+		"Choice2": "② Turn Around System ",
+		"Choice3": "③ Computer Output Microfile System ",
+		"Choice4": "④ File Output System",
+		"Answer": "2",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "52",
+		"Quest": "소프트웨어 개발주기 모델 중 폭포수형의 특징으로 옳지 않은 것은?",
+		"Choice1": "① 개발 과정 중에 발생하는 새로운 요구나 경험을 반영하기 용이하다. ",
+		"Choice2": "② 단계별 정의가 분명하고, 각 단계별 산출물이 명확하다. ",
+		"Choice3": "③ 두 개 이상의 과정이 병행하여 수행되지 않는다. ",
+		"Choice4": "④ 소프트웨어 개발 과정의 앞 단계가 끝나야만 다음 단계로 넘어 갈 수 있다.",
+		"Answer": "1",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "53",
+		"Quest": "로드화 대상 항목을 대분류, 중분류, 소분류 등으로 구분하여 각 그룹내에서 순서대로 번호를 부여하여 분류하는 코드의 종류는?",
+		"Choice1": "① 구분 코드(Block code) ",
+		"Choice2": "② 10진 분류 코드(Decimal code) ",
+		"Choice3": "③ 합성 코드(Combined code) ",
+		"Choice4": "④ 그룹 분류 코드(Group classification code)",
+		"Answer": "4",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "54",
+		"Quest": "파일매체를 선정하기 위한 기능 검토 시 검토하는 사항이 아닌 것은?",
+		"Choice1": "① 처리방식의 검토 ",
+		"Choice2": "② 정보량의 검토 ",
+		"Choice3": "③ 항목의 명칭 및 문자구분, 배열 검토 ",
+		"Choice4": "④ 파일의 개수 및 사용 빈도의 검토",
+		"Answer": "3",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "55",
+		"Quest": "다음의 코드 설계 단계 중 가장 먼저 행하는 것은?",
+		"Choice1": "① 코드 대상 항목 선정 ",
+		"Choice2": "② 사용 범위와 기간의 결정 ",
+		"Choice3": "③ 코드 부여 방식 결정 ",
+		"Choice4": "④ 코드 목적의 명확화",
+		"Answer": "1",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "56",
+		"Quest": "시스템의 개발과 운용에 관한 문서화(Documentation)의 목적으로 가장 옳지 않은 것은?",
+		"Choice1": "① 시스템 개발 후에 시스템의 유지 보수를 용이하게 한다. ",
+		"Choice2": "② 문서화 자체로 시스템의 보안성을 강화할 수 있다. ",
+		"Choice3": "③ 시스템 개발 중 추가 변경에 따른 혼란을 방지할 수 있다. ",
+		"Choice4": "④ 시스템 개발 방법과 순서를 표준화하여 효율적인 작업과 관리가 가능하다.",
+		"Answer": "2",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "57",
+		"Quest": "시스템의 기본 요소로 가장 거리가 먼 것은?",
+		"Choice1": "① 입력과 출력",
+		"Choice2": "② 처리 ",
+		"Choice3": "③ 제어",
+		"Choice4": "④ 상호 의존",
+		"Answer": "4",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "58",
+		"Quest": "시스템을 평가하는 목적으로 거리가 먼 것은?",
+		"Choice1": "① 시스템 운영 관리의 타당성 파악 ",
+		"Choice2": "② 시스템의 성능과 유용도 판단 ",
+		"Choice3": "③ 처리 비용과 효율 면에서 개선점 파악 ",
+		"Choice4": "④ 시스템 운영 요원의 재훈련",
+		"Answer": "4",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "59",
+		"Quest": "파일 편성 방법 중 다음 설명에 해당하는 것은?",
+		"Choice1": "① Sequential 편성",
+		"Choice2": "② Indexed sequential 편성 ",
+		"Choice3": "③ List 편성",
+		"Choice4": "④ Random 편성",
+		"Answer": "4",
+		"Subject": "third",
+		"ImageURL": "https://mjjang94.github.io/CBT_Hosting/2019_2_images/2019_2_59.png"
+	}, {
+		"QuestNO": "60",
+		"Quest": "프로세스 설계 시 고려할 사항으로 거리가 먼 것은?",
+		"Choice1": "① 처리 과정을 명확히 표현하여 신뢰성과 정확성을 확보한다. ",
+		"Choice2": "② 가급적 분류 처리를 최대화한다. ",
+		"Choice3": "③ 시스템의 상태 및 기능, 구성 요소 등을 종합적으로 표현한다. ",
+		"Choice4": "④ 신 시스템 및 기존 시스템 프로세스의 설계 문제점 분석이 가능하도록 설계한다.",
+		"Answer": "2",
+		"Subject": "third",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "61",
+		"Quest": "프로세스를 스케줄링하는 목적으로 옳지 않은 것은?",
+		"Choice1": "① 모든 작업에 대해 공평성을 유지해야 한다. ",
+		"Choice2": "② 응답시간을 최소화해야 한다. ",
+		"Choice3": "③ 프로세스의 처리량을 최소화해야 한다. ",
+		"Choice4": "④ 경과시간의 예측이 가능하여야 한다.",
+		"Answer": "3",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "62",
+		"Quest": "파일 디스크립터에 대한 설명으로 옳지 않은 것은?",
+		"Choice1": "① 파일 제어 블록(FCB)이라고도 한다. ",
+		"Choice2": "② 시스템에 따라 다른 구조를 가질 수 있다. ",
+		"Choice3": "③ 파일 관리를 위해 시스템이 필요로 하는 정보를 가지고 있다. ",
+		"Choice4": "④ 파일 시스템이 관리하므로 사용자가 직접 참조할 수 있다.",
+		"Answer": "4",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "63",
+		"Quest": "디스크 스케줄링 기법 중 가장 안쪽과 가장 바깥쪽의 실린더에 대한 차별대우를 없앤 기법은?",
+		"Choice1": "① FCFS",
+		"Choice2": "② SSTF ",
+		"Choice3": "③ N-단계 SCAN",
+		"Choice4": "④ C-SCAN",
+		"Answer": "4",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "64",
+		"Quest": "파일 보호 기법 중 각 파일에 판독 암호와 기록 암호를 부여하여 제한된 사용자에게만 접근을 허용하는 기법은?",
+		"Choice1": "① 파일의 명명(Naming)",
+		"Choice2": "② 비밀번호(Password) ",
+		"Choice3": "③ 접근제어(Access control)",
+		"Choice4": "④ 암호화(Cryptography)",
+		"Answer": "2",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "65",
+		"Quest": "UNIX에서 현재 프로세스의 상태를 확인할 때 사용되는 명령어는?",
+		"Choice1": "① ps",
+		"Choice2": "② cp ",
+		"Choice3": "③ chmod",
+		"Choice4": "④ cat",
+		"Answer": "1",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "66",
+		"Quest": "가상기억장치를 운영하기 위한 페이지 대치 알고리즘이 아닌 것은?",
+		"Choice1": "① FIFO(First-In-First-Out)",
+		"Choice2": "② LRU(Least Recently Used) ",
+		"Choice3": "③ LFU(Least Frequently Used)",
+		"Choice4": "④ SJF(Shortest Job First)",
+		"Answer": "4",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "67",
+		"Quest": "시스템 소프트웨어가 아닌 것은?",
+		"Choice1": "① 컴파일러",
+		"Choice2": "② 링커 ",
+		"Choice3": "③ 워드프로세서",
+		"Choice4": "④ 로더",
+		"Answer": "3",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "68",
+		"Quest": "15K의 작업을 16K의 작업공간에 할당했을 경우, 사용된 기억장치 배치전략 기법은?",
+		"Choice1": "① First-Fit",
+		"Choice2": "② Best-Fit ",
+		"Choice3": "③ Worst-Fit",
+		"Choice4": "④ Last-Fit",
+		"Answer": "2",
+		"Subject": "fourth",
+		"ImageURL": "https://mjjang94.github.io/CBT_Hosting/2019_2_images/2019_2_68.png"
+	}, {
+		"QuestNO": "69",
+		"Quest": "분산 운영체제와 네트워크 운영체제의 설명으로 옳지 않은 것은?",
+		"Choice1": "① 분산 운영체제는 전체 시스템에 대하여 일관성 있는 설계가 가능하다. ",
+		"Choice2": "② 네트워크 운영체제는 기존의 운영체제 위에 통신 기능을 추가한 것이다. ",
+		"Choice3": "③ 분산된 시스템 내에 하나의 운영체제가 존재할 때 이것을 네트워크 운영체제라 한다. ",
+		"Choice4": "④ 분산 운영체제에서는 네트워크로 연결된 각 노드들의 독자적인 운영체제가 배제된다.",
+		"Answer": "3",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "70",
+		"Quest": "세마포어(semaphore)에 대한 설명으로 가장 옳지 않은 것은?",
+		"Choice1": "① P조작은 프로세스를 대기시키는 wait 동작이다. ",
+		"Choice2": "② V조작은 대기 중인 프로세스를 깨우는 신호를 보내는 signal 동작이다. ",
+		"Choice3": "③ 세마포어는 항상 양수 값을 가진다. ",
+		"Choice4": "④ 프로세스 블록 큐는 임계영역에 진입할 수 없는 프로세스를 블록화하여 대기시키는 순서를 유지하는 데 사용하는 큐이다.",
+		"Answer": "3",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "71",
+		"Quest": "PCB에 대한 설명으로 틀린 것은?",
+		"Choice1": "① 각각의 프로세스는 모두 PCB를 갖고 있다. ",
+		"Choice2": "② PCB를 위한 공간은 시스템이 최대로 수용할 수 있는 프로세스의 수를 기본으로 하여 동적으로 공간을 할당하게 된다. ",
+		"Choice3": "③ 프로세스의 중요한 상태 정보를 갖고 있다. ",
+		"Choice4": "④ 프로세스가 소멸되어도 해당 PCB는 제거되지 않는다.",
+		"Answer": "4",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "72",
+		"Quest": "HRN 스케줄링 기법을 적용할 경우 우선순위가 가장 높은 것은?",
+		"Choice1": "① A",
+		"Choice2": "② B ",
+		"Choice3": "③ C",
+		"Choice4": "④ D",
+		"Answer": "3",
+		"Subject": "fourth",
+		"ImageURL": "https://mjjang94.github.io/CBT_Hosting/2019_2_images/2019_2_72.png"
+	}, {
+		"QuestNO": "73",
+		"Quest": "분산 운영체제에서 프로세스 P가 사이드 A에 있는 파일에 접근할 때, 프로세스가 원격 프로시져 호출(Remote Procedure Call)을 이용하여 이동하는 이주 기능은?",
+		"Choice1": "① 데이터 이주",
+		"Choice2": "② 연산 이주 ",
+		"Choice3": "③ 프로세스 이주",
+		"Choice4": "④ 사이트 이주",
+		"Answer": "2",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "74",
+		"Quest": "자원 보호 기법 중 객체와 그 객체에 허용된 조작 리스트이며, 영역과 결합되어 있으나 사용자에 의해 간접적으로 액세스되는 기법은?",
+		"Choice1": "① 접근 제어 행렬(access control matrix) ",
+		"Choice2": "② 권한 리스트(capability list) ",
+		"Choice3": "③ 접근 제어 리스트(access control list) ",
+		"Choice4": "④ 자물쇠와 열쇠(lock/key) 매커니즘",
+		"Answer": "2",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "75",
+		"Quest": "UNIX 명령어 중 파일에 대한 액세스(읽기, 쓰기, 실행) 권한을 설정하는데 사용하는 명령어는?",
+		"Choice1": "① chmod",
+		"Choice2": "② pwd ",
+		"Choice3": "③ mkdir",
+		"Choice4": "④ Is",
+		"Answer": "1",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "76",
+		"Quest": "교착상태(Deadlock)의 4가지 필요조건에 해당하지 않는 것은?",
+		"Choice1": "① 자원은 사용이 끝날 때까지 이들이 갖고 있는 프로세스로부터 제거할 수 있다. ",
+		"Choice2": "② 프로세스가 다른 자원을 기다리면서 이들에게 이미 할당된 자원을 갖고 있다. ",
+		"Choice3": "③ 프로세스들이 그들이 필요로 하는 자원에 대해 배타적인 통제권을 요구한다. ",
+		"Choice4": "④ 프로세스의 환형 사슬이 존재해서 이를 구성하는 각 프로세스는 사슬 내의 다음에 있는 프로세스가 요구하는 하나 또는 그 이상의 자원을 갖고 있다.",
+		"Answer": "1",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "77",
+		"Quest": "4개의 페이지를 수용할 수 있는 주기억장치가 현재 완전히 비어 있으며, 어떤 프로세스가 다음과 같은 순서로 페이지번호를 요청했을 때 페이지 대체 정책으로 FIFO를 사용한다면 페이지 부재(Page0fault)의 발생 횟수는?",
+		"Choice1": "① 3회",
+		"Choice2": "② 4회 ",
+		"Choice3": "③ 5회",
+		"Choice4": "④ 6회",
+		"Answer": "2",
+		"Subject": "fourth",
+		"ImageURL": "https://mjjang94.github.io/CBT_Hosting/2019_2_images/2019_2_77.png"
+	}, {
+		"QuestNO": "78",
+		"Quest": "개인용 컴퓨터(PC) 운영체제가 아닌 것은?",
+		"Choice1": "① Adobe Photoshop",
+		"Choice2": "② Unix ",
+		"Choice3": "③ Windows 10",
+		"Choice4": "④ Linux",
+		"Answer": "1",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "79",
+		"Quest": "여러 개의 큐를 두어 낮은 단계로 내려갈수록 프로세스의 시간 할당량을 크게 하는 프로세스 스케줄링 방식은?",
+		"Choice1": "① MFQ(Multi-level Feedback Queue) ",
+		"Choice2": "② SJF(Shortest Job First) ",
+		"Choice3": "③ SRT(Shortest Remaining Time) ",
+		"Choice4": "④ Round Robin",
+		"Answer": "1",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "80",
+		"Quest": "프로세스에 대한 설명으로 틀린 것은?",
+		"Choice1": "① 지정된 결과를 얻기 위한 일련의 계통적 동작을 말한다. ",
+		"Choice2": "② 목적 또는 결과에 따라 발생되는 사건들의 과정을 말한다. ",
+		"Choice3": "③ 프로세스는 프로그램 자체만으로 이루어져 있다. ",
+		"Choice4": "④ CPU에 의해 수행되는 사용자 및 시스템 프로그램을 말한다.",
+		"Answer": "3",
+		"Subject": "fourth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "81",
+		"Quest": "필수변조에서 아날로그 정보신호의 크기에 따라 펄스 반송파의 폭을 변화시키는 변조 방식은?",
+		"Choice1": "① PWM",
+		"Choice2": "② AM ",
+		"Choice3": "③ PPM",
+		"Choice4": "④ PCM",
+		"Answer": "1",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "82",
+		"Quest": "UDP 프로토콜에 대한 설명으로 틀린 것은?",
+		"Choice1": "① 비연결형 전송 ",
+		"Choice2": "② 적은 오버헤드 ",
+		"Choice3": "③ 빠른 전송 ",
+		"Choice4": "④ 신뢰성 있는 데이터 전송 보장",
+		"Answer": "4",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "83",
+		"Quest": "송신측에서 1개의 프레임을 전송한 후 수신측에서 오류의 발생을 점검하여 ACK 또는 NAK 신호를 보내올 때까지 대기하는 방식은?",
+		"Choice1": "① 선택적 ARQ",
+		"Choice2": "② 적응적 ARQ ",
+		"Choice3": "③ 연속적 ARQ",
+		"Choice4": "④ 정지&대기 ARQ",
+		"Answer": "4",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "84",
+		"Quest": "LAN의 토폴로지 형태로 적절하지 않은 것은?",
+		"Choice1": "① star 형",
+		"Choice2": "② bus 형 ",
+		"Choice3": "③ ring 형",
+		"Choice4": "④ square 형",
+		"Answer": "4",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "85",
+		"Quest": "라우팅 프로토콜 중 Distance vector 방식이 아닌 것은?",
+		"Choice1": "① RIP",
+		"Choice2": "② BGP ",
+		"Choice3": "③ EIGRP",
+		"Choice4": "④ OSPF",
+		"Answer": "4",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "86",
+		"Quest": "한 문자가 전송될 때마다 스타트(start) 비트와 스톱(stop) 비트를 전송하는 방식은?",
+		"Choice1": "① 비트제어방식",
+		"Choice2": "② 동기방식 ",
+		"Choice3": "③ 비동기방식",
+		"Choice4": "④ 다중화방식",
+		"Answer": "3",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "87",
+		"Quest": "8진 PSK 변조를 사용하는 모뎀의 데이터 전송속도가 4800bps일 때 변조속도(baud)는?",
+		"Choice1": "① 600",
+		"Choice2": "② 1600 ",
+		"Choice3": "③ 2400",
+		"Choice4": "④ 4800",
+		"Answer": "2",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "88",
+		"Quest": "광섬유 케이블에서 클래딩(Cladding)의 주 역할은?",
+		"Choice1": "① 광신호를 전반사",
+		"Choice2": "② 광신호를 회절 ",
+		"Choice3": "③ 광신호를 흡수",
+		"Choice4": "④ 광신호를 전송",
+		"Answer": "1",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "89",
+		"Quest": "ATM 셀의 헤더 크기는 몇 [byte] 인가?",
+		"Choice1": "① 2",
+		"Choice2": "② 5 ",
+		"Choice3": "③ 48",
+		"Choice4": "④ 53",
+		"Answer": "2",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "90",
+		"Quest": "데이터그램(datagram)방식에 대한 설명 중 맞는 것은?",
+		"Choice1": "① 수신지의 마지막노드에서는 송신지에서 송신한 순서대로 패킷이 도착한다. ",
+		"Choice2": "② 모든 패킷은 설정된 경로에 따라 전송된다. ",
+		"Choice3": "③ 미리 설정된 경로상의 각 노드는 패킷에 대한 경로를 알고 있으므로 경로설정과 관련된 결정을 수행할 필요가 없다. ",
+		"Choice4": "④ 네트워크 운용에 있어서 보다 높은 유연성을 제공한다.",
+		"Answer": "4",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "91",
+		"Quest": "무선 네트워크 기술인 블루투스(Bluetooth)에 대한 표준규격은?",
+		"Choice1": "① IEEE 801.9",
+		"Choice2": "② IEEE 802.15.1 ",
+		"Choice3": "③ IEEE 802.10",
+		"Choice4": "④ IEEE 809.5.1",
+		"Answer": "2",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "92",
+		"Quest": "HDLC에서 사용되지 프레임의 종류에 해당하지 않는 것은?",
+		"Choice1": "① 정보 프레임",
+		"Choice2": "② 감독 프레임 ",
+		"Choice3": "③ 무번호 프레임",
+		"Choice4": "④ 제어 프레임",
+		"Answer": "4",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "93",
+		"Quest": "반송파로 사용되는 정현파의 진폭에 정보를 싣는 변조 방식은?",
+		"Choice1": "① ASK",
+		"Choice2": "② FSK ",
+		"Choice3": "③ PSK",
+		"Choice4": "④ WDPCM",
+		"Answer": "1",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "94",
+		"Quest": "패킷 교환 방식에 대한 설명으로 틀린 것은?",
+		"Choice1": "① 메시지 교환 방식과 같이 축적 교환 방식의 일종이다. ",
+		"Choice2": "② 트래픽 용량이 적은 경우에 유리하다. ",
+		"Choice3": "③ 전송할 수 있는 패킷의 길이가 제한되어 있다. ",
+		"Choice4": "④ 데이터그램과 가상회선방식이 있다.",
+		"Answer": "2",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "95",
+		"Quest": "HDLC 프레임 구조에 포함되지 않는 것은?",
+		"Choice1": "① 플래그(Flag) 필드",
+		"Choice2": "② 제어(Control) 필드 ",
+		"Choice3": "③ 주소(Address) 필드",
+		"Choice4": "④ 시작(Start) 필드",
+		"Answer": "4",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "96",
+		"Quest": "아날로그 데이터를 디지털 신호로 변환하는 PCM 방식의 진행 순서로 옳은 것은?",
+		"Choice1": "① 표본화 → 부호화 → 양자화 → 여과 → 복호화 ",
+		"Choice2": "② 표본화 → 양자화 → 부호화 → 복호화 → 여과 ",
+		"Choice3": "③ 표본화 → 부호화 → 양자화 → 복호화 → 여과 ",
+		"Choice4": "④ 표본화 → 양자화 → 여과 → 부호화 → 복호화",
+		"Answer": "2",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "97",
+		"Quest": "8진 PSK에서 반송파 간의 위상차는?",
+		"Choice1": "① π",
+		"Choice2": "② π/2 ",
+		"Choice3": "③ π/4",
+		"Choice4": "④ π/8",
+		"Answer": "3",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "98",
+		"Quest": "변조속도가 1600(Baud)이고 트리비트(Tribit)를 사용하는 경우 전송속도(bps)는?",
+		"Choice1": "① 800",
+		"Choice2": "② 1600 ",
+		"Choice3": "③ 4800",
+		"Choice4": "④ 12800",
+		"Answer": "3",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "99",
+		"Quest": "점대점 링크를 통하여 인터넷 접속에 사용되는 IEFT의 표준 프로토콜은?",
+		"Choice1": "① HDLC",
+		"Choice2": "② LLC ",
+		"Choice3": "③ SLIP",
+		"Choice4": "④ PPP1",
+		"Answer": "4",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}, {
+		"QuestNO": "100",
+		"Quest": "전송하려는 부호어들의 최소 해밍 거리가 7일 때, 수신시 정정할 수있는 최대 오류의 수는?",
+		"Choice1": "① 1",
+		"Choice2": "② 2 ",
+		"Choice3": "③ 3",
+		"Choice4": "④ 4",
+		"Answer": "3",
+		"Subject": "fifth",
+		"ImageURL": ""
+	}]
+}
