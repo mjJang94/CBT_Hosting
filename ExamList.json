@@ -1,5 +1,9 @@
 {
     "DataList": [
+         {
+            "Exam_nm": "2020년 3회차",
+            "Exam_data": "2020_2.json"
+        },
         {
             "Exam_nm": "2020년 1회, 2회차",
             "Exam_data": "2020_1.json"
