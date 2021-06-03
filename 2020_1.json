@@ -1,5 +1,6 @@
-[
-  {
+{
+	"DataList":
+  [{
     "QuestNO": "1",
     "Quest": "데이터베이스 관리 시스템(DBMS)의 필수기능에 해당하지 않는 것은?",
     "Choice1": "① 정의 기능(definition facility)",
@@ -1100,3 +1101,4 @@
     "ImageURL": ""
   }
 ]
+}
